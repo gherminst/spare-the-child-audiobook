@@ -1,2 +1,13 @@
-# spare-the-child-audiobook
-Spare the Child - Part 2: Control. Audiobook player and chaptered download.
+# Spare the Child - Part 2: Control
+
+Audiobook player with browser-local bookmarks and resume.
+
+Parts 1 and 3 are coming.
+
+No author attribution is supplied. No license is granted for the book audio.
+
+Listen: https://gherminst.github.io/spare-the-child-audiobook/
+
+Chaptered M4B: https://github.com/gherminst/spare-the-child-audiobook/releases/download/part2-v1/Spare.the.Child.-.Part.2.-.Control.m4b
+
+Playback and bookmarks are stored in this browser only, not synced across devices. Streaming needs an internet connection.
